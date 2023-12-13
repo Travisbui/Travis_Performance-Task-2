@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702502187
+bg_music.mp3::AudioStreamMP3::7740025162993226110::1702401874::1702502188::1::::<><>::
+enemy.png::CompressedTexture2D::5591272491634969294::1702401874::1702502188::1::::<><>::
+enemy.tscn::PackedScene::8781680931432717015::1702501668::0::1::::<><>::uid://clwpo83yorvtm::::res://enemy.png
+enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702401874::1702502188::1::::<><>::
+icon.svg::CompressedTexture2D::7653978998285427738::1702401692::1702502188::1::::<><>::
+Player.gd::GDScript::-1::1702501657::0::1::::<>Node2D<>::
+player.tscn::PackedScene::9127794386323920835::1702501668::0::1::::<><>::res://Player.gd<>uid://dhbv6eyh45c07::::res://icon.svg
+README.md::TextFile::-1::1702421964::0::1::::<><>::
+world.tscn::PackedScene::3911905872723207022::1702501668::0::1::::<><>::uid://d3bto7uad3o80::::res://player.tscn<>uid://dxd6achrf8o4n::::res://enemy.tscn<>uid://25h8317w24nw::::res://enemy_hit.mp3
